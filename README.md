@@ -53,7 +53,7 @@
 ## Деплой
 
 Деплой проекта на Vercel:
-https://slider-test-hew36hcg4-rubicals-projects-913b6318.vercel.app/
+[https://slider-test-hew36hcg4-rubicals-projects-913b6318.vercel.app/](https://slider-test-green.vercel.app/)
 
 
 ## Структура проекта
